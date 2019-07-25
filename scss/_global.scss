@@ -78,3 +78,15 @@ p.lead {
     }
   }
 }
+
+.ty-dev-icons {
+  .list-inline-item {
+    &:hover {
+      color: $primary;
+    }
+  }
+}
+
+.ty-image-500 {
+  max-width: 500px;
+}

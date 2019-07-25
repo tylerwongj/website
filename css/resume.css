@@ -83,6 +83,14 @@ p.lead {
   color: #04336b;
 }
 
+.ty-dev-icons .list-inline-item:hover {
+  color: #04336b;
+}
+
+.ty-image-500 {
+  max-width: 500px;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
