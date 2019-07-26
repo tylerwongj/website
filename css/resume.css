@@ -157,6 +157,16 @@ p.lead {
   }
 }
 
+.ty-img-profile {
+  border: 0.15rem solid rgba(255, 255, 255, 0.2);
+  max-height: 3rem;
+  max-width: 3rem;
+}
+
+.ty-navbar {
+  padding: 0.25rem 1rem;
+}
+
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
