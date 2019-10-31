@@ -56,14 +56,14 @@ p.lead {
 
 .social-icons a {
   display: inline-block;
-  height: 3.5rem;
-  width: 3.5rem;
+  height: 3rem;
+  width: 3rem;
   background-color: #495057;
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
-  line-height: 3.5rem;
+  line-height: 3rem;
   margin-right: 1rem;
 }
 
@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #04336b;
+  background-color: #1a1929;
 }
 
 .dev-icons {
@@ -80,19 +80,19 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #04336b;
+  color: #1a1929;
 }
 
 .ty-dev-icons li:hover {
-  color: #04336b;
+  color: #1a1929;
 }
 
-.carousel--200 {
-  width: 200px;
+.max-width--200 {
+  max-width: 200px;
 }
 
-.carousel--500 {
-  width: 500px;
+.max-width--500 {
+  max-width: 500px;
 }
 
 .margin-left-auto {
@@ -110,7 +110,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #0756b5;
+  outline-color: #383659;
 }
 
 @media (min-width: 992px) {
@@ -203,17 +203,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #04336b !important;
+  background-color: #1a1929 !important;
 }
 
 .text-primary {
-  color: #04336b !important;
+  color: #1a1929 !important;
 }
 
 a {
-  color: #04336b;
+  color: #1a1929;
 }
 
 a:hover, a:focus, a:active {
-  color: #011021;
+  color: black;
 }

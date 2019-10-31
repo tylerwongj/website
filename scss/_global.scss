@@ -52,14 +52,14 @@ p.lead {
 .social-icons {
   a {
     display: inline-block;
-    height: 3.5rem;
-    width: 3.5rem;
+    height: 3rem;
+    width: 3rem;
     background-color: $gray-700;
     color: $white !important;
     border-radius: 100%;
     text-align: center;
     font-size: 1.5rem;
-    line-height: 3.5rem;
+    line-height: 3rem;
     margin-right: 1rem;
     &:last-child {
       margin-right: 0;
@@ -91,12 +91,12 @@ p.lead {
 //   width: 500px;
 // }
 
-.carousel--200 {
-  width: 200px;
+.max-width--200 {
+  max-width: 200px;
 }
 
-.carousel--500 {
-  width: 500px;
+.max-width--500 {
+  max-width: 500px;
 }
 
 .margin-left-auto {
