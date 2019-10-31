@@ -87,16 +87,20 @@ p.lead {
   color: #04336b;
 }
 
-.img-fluid--500 {
-  width: 500px;
-}
-
 .carousel--200 {
   width: 200px;
 }
 
 .carousel--500 {
   width: 500px;
+}
+
+.margin-left-auto {
+  margin-left: auto;
+}
+
+.margin-right-auto {
+  margin-right: auto;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -188,9 +192,6 @@ section.resume-section .resume-item .resume-date {
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
-  }
-  section.resume-section .resume-item .resume-date {
-    min-width: 18rem;
   }
 }
 
