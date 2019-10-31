@@ -94,3 +94,13 @@ p.lead {
 .max-width--500 {
   max-width: 500px;
 }
+
+.order--1 {
+  order: -1;
+}
+
+@media (min-width: 768px) {
+  .order-md-1 {
+    order: 1;
+  }
+}
