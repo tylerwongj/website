@@ -87,12 +87,28 @@ p.lead {
   }
 }
 
+.max-width--100 {
+  max-width: 100px;
+}
+
 .max-width--200 {
   max-width: 200px;
 }
 
+.max-width--300 {
+  max-width: 300px;
+}
+
+.max-width--400 {
+  max-width: 400px;
+}
+
 .max-width--500 {
   max-width: 500px;
+}
+
+.border-radius--25 {
+  border-radius: 25%;
 }
 
 .order--1 {
@@ -103,4 +119,8 @@ p.lead {
   .order-md-1 {
     order: 1;
   }
+}
+
+.box-shadow {
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
