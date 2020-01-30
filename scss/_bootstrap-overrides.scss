@@ -7,10 +7,11 @@
 }
 
 a {
-  color: $primary;
+  color: $link-color;
   &:hover,
   &:focus,
   &:active {
-    color: darken($primary, 15%);
+    color: $link-hover-color;
+    text-decoration: none;
   }
 }

@@ -38,3 +38,6 @@ $dark:          $gray-800 !default;
 // Page Variables
 
 $sidebar-base-width: 17rem;
+
+$link-color: #7360f5; // purple-ish
+$link-hover-color: darken($link-color, 15%);

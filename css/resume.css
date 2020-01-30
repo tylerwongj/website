@@ -244,9 +244,10 @@ section.resume-section {
 }
 
 a {
-  color: #1a1929;
+  color: #7360f5;
 }
 
 a:hover, a:focus, a:active {
-  color: black;
+  color: #3418f0;
+  text-decoration: none;
 }
