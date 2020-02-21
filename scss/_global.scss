@@ -136,3 +136,13 @@ p.lead {
 .text-red {
   color: $red;
 }
+
+.ul-project-history {
+  > li {
+    font-weight: bold;
+
+    li {
+      font-weight: normal;
+    }
+  }
+}

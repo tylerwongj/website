@@ -144,6 +144,14 @@ a.box-shadow:hover, a .box-shadow:hover {
   color: #dc3545;
 }
 
+.ul-project-history > li {
+  font-weight: bold;
+}
+
+.ul-project-history > li li {
+  font-weight: normal;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
