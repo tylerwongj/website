@@ -13,5 +13,9 @@ a {
   &:active {
     color: $link-hover-color;
     text-decoration: none;
+
+    &.btn-primary {
+      color: white;
+    }
   }
 }

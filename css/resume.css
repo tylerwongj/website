@@ -263,3 +263,7 @@ a:hover, a:focus, a:active {
   color: #3418f0;
   text-decoration: none;
 }
+
+a:hover.btn-primary, a:focus.btn-primary, a:active.btn-primary {
+  color: white;
+}
