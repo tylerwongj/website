@@ -1,14 +1,14 @@
 Arguments: 
-  /Users/tyler/.nvm/versions/node/v6.13.1/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js start
+  /Users/tyler/.nvm/versions/node/v12.17.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js start
 
 PATH: 
-  /usr/local/mysql/bin:/Users/tyler/.yarn/bin:/Users/tyler/.nvm/versions/node/v6.13.1/bin:/Users/tyler/.linuxbrew/bin:/usr/local/opt/ant@1.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/tyler/.npm-packages/bin:/Users/tyler/Library/PackageManager/bin:/Users/tyler/Library/PackageManager/bin
+  /usr/local/mysql/bin:/Users/tyler/.yarn/bin:/Users/tyler/.nvm/versions/node/v12.17.0/bin:/Users/tyler/.linuxbrew/bin:/usr/local/opt/ant@1.9/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/tyler/.npm-packages/bin:/Users/tyler/Library/PackageManager/bin:/Users/tyler/Library/PackageManager/bin
 
 Yarn version: 
   1.5.1
 
 Node version: 
-  6.13.1
+  12.17.0
 
 Platform: 
   darwin x64
@@ -81,11 +81,9 @@ Trace:
   Directory: /Users/tyler/p/website
   Output:
   
-      at ProcessTermError.Error (native)
       at ProcessTermError.MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
       at new ProcessTermError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:226:113)
       at ChildProcess.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:30281:17)
-      at emitTwo (events.js:106:13)
-      at ChildProcess.emit (events.js:191:7)
-      at maybeClose (internal/child_process.js:920:16)
-      at Process.ChildProcess._handle.onexit (internal/child_process.js:230:5)
+      at ChildProcess.emit (events.js:315:20)
+      at maybeClose (internal/child_process.js:1021:16)
+      at Process.ChildProcess._handle.onexit (internal/child_process.js:286:5)
